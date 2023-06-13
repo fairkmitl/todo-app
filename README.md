@@ -1,4 +1,4 @@
-# Full Stack Javascript Test (Todo App)
+# Full Stack Javascript (Todo App)
 
 ## Table of Contents
 - [Overview](#overview)
@@ -18,7 +18,7 @@
 - [Contact Information](#contact-information)
 
 ## Overview
-This project is a Todo application built with full-stack JavaScript technologies. The application allows users to manage their tasks, create a list of todos, update their statuses, and manage subtasks related to each todo. This project is a technical test intended to demonstrate proficiency in full-stack JavaScript development.
+This project is a Todo application built with full-stack JavaScript technologies. The application allows users to manage their tasks, create a list of todos, update their statuses, and manage subtasks related to each todo.
 
 ## Directory Structure
 The project is organized into two main directories: backend and frontend. Additionally, there's an attached Postman collection file provided for easy API endpoint testing. Each directory contains its own `.git` file for version control, and you can review each project's history using `git log`.
